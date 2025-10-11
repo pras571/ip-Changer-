@@ -1,2 +1,3 @@
-# ip-Changer-
-ip changer to access any websites anonymously
+#📌Ip-changer
+
+To install ip-changer in your terminal 
