@@ -32,11 +32,14 @@ ____________________________________
 - 🔧 Easy to customize
 - 🖥️ work on all system like termux,kali linux, parrot os
 ____________________________________
-## ⚙️ installation / How to run
+## ⚙️ installation
 ``bash
 # Clone this repository
+https://github.com/pras571/ip-Changer-.git
 
+# Give execute permission 
+chmod +x ipchanger.txt
 
-cd project-name
-
+# 🏃Run the tool
+bash ipchanger.txt
 
