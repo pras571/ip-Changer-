@@ -26,3 +26,17 @@ ____________________________________
 ____________________________________
 ![image alt](https://github.com/pras571/ip-Changer-/blob/daef55ee40de212c7c65c1b3623f967b4ff22864/Picsart_25-10-11_15-25-00-031.jpg)
 ____________________________________
+
+## ✨ Features 
+- ⚡ Fast and light weight
+- 🔧 Easy to customize
+- 🖥️ work on all system like termux,kali linux, parrot os
+____________________________________
+## ⚙️ installation / How to run
+``bash
+# Clone this repository
+
+
+cd project-name
+
+
