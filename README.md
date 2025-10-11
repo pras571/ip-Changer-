@@ -44,4 +44,6 @@ chmod +x ipchanger.txt
 # 🏃Run the tool
 bash ipchanger.txt
 
-# made from full shell language 
+# 👨‍💻 owner 
+NAME: MR PRASHANNA
+Email: ggithub72@gmail.com contact:https://www.facebook.com/prashanna.gautam.267761
