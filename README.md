@@ -36,9 +36,9 @@ ____________________________________
 # Clone this repository
 git clone https://github.com/pras571/ip-Changer-.git
 
-# Give execute permission 
-chmod +x ipchanger.txt
-
+# Go to the ipchanger directory 
+ cd ip-Changer-
+ 
 # 🏃Run the tool
 bash ipchanger.txt
 
