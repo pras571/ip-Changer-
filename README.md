@@ -34,7 +34,7 @@ ____________________________________
 ____________________________________
 ## ⚙️ installation
 # Clone this repository
-https://github.com/pras571/ip-Changer-.git
+git clone https://github.com/pras571/ip-Changer-.git
 
 # Give execute permission 
 chmod +x ipchanger.txt
